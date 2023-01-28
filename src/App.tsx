@@ -15,7 +15,7 @@ function App() {
             ...
           </C.InfoArea>
 
-          <button>Reiniciar</button>
+          <C.Button>Reiniciar</C.Button>
 
         </C.Info>
         <C.GridArea>
